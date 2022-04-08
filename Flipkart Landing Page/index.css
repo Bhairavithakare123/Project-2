@@ -1,0 +1,43 @@
+img{
+    margin-top: 250px;
+    margin-left: 270px;
+}
+
+h1{
+    margin-top: 30px;
+    color: white;
+}
+p{
+    color: white;
+}
+input{
+    margin-top: 10px;
+    border-radius: 50px;
+    
+}
+
+.btn-primary{
+    margin-top: 20px;
+    margin-left: 100px;
+    
+    
+}
+.btn-light{
+    margin-top: 20px;
+    margin-left: 120px;
+    
+}
+form{
+    background-color:white;
+    padding: 100px;
+    
+}
+
+.x{
+    margin-top: 70px;
+    color: black;
+}
+.y{
+    margin-bottom: 60px;
+    color: black;
+}
